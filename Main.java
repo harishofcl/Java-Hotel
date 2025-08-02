@@ -39,7 +39,7 @@ public class Main {
                     System.out.println("Exiting... Thank you!");
                     return;
                 default:
-                    System.out.println("Invalid option.");
+                    System.out.println("Invalid options.");
             }
         }
     }
